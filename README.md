@@ -2,7 +2,7 @@
 
 **I tried to make a tourist site**
 
-- [Demo Project](https://fatemeimani8118.github.io/simple-trick/)
+- [Demo Project](https://fatemeimani8118.github.io/my-first-project/)
 
 ![1](https://github.com/fatemeimani8118/my-first-project/assets/137331610/0999b1d3-583a-4df2-98f5-c07565bcab1e)
 
