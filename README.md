@@ -2,7 +2,7 @@
 
 **I tried to make a tourist site**
 
-- [Demo Project](https://fatemeimani8118.github.io/my-first-project/)
+- [Demo Project](https://fatemeimani8118.github.io/bootstarp-project/)
 
 ![1](https://github.com/fatemeimani8118/my-first-project/assets/137331610/0999b1d3-583a-4df2-98f5-c07565bcab1e)
 
@@ -14,7 +14,7 @@
 
 - Developed by fateme imani
 
-- Created - 2024-02-28
+- Created - 2024-03-04
 
 - Technologies Used - Html , css
 
